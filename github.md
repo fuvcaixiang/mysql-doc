@@ -40,3 +40,11 @@
 - [github](http://github.com)
 ### 图片
 - ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png）
+# Apache安装
+- sudo apt-get update
+- sudo apt-get install tasksel
+- sudo tasksel
+# workbench 安装
+- $ sudo apt-get install mysql-workbench
+# MySQL 命令行操作
+- 连接Mysql 格式： mysql -h 主机地址 -u用户名 －p用户密码
